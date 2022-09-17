@@ -4,8 +4,6 @@
 
 - 👨‍💻 TryHackMe **okuma**
 
-- 📫 How to reach me **iagookuma90@gmail.com**
-
 - ⚡ Fun fact **1 0 1 0 1 1**
 
 <h3 align="left">Connect with me:</h3>

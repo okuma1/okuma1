@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iago Okuma</h1>
 <h3 align="center">Cyber Security Student</h3>
-<img allign="rigth" alt="Coding" width="400" src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif">
+<img allign="middle" alt="Coding" width="400" src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif">
 
 - 👨‍💻 TryHackMe **okuma**
 

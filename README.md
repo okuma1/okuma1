@@ -2,7 +2,7 @@
 <h3 align="center">Cyber Security Student</h3>
 <img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif">
 
-- 👨‍💻 TryHackMe (okuma)[https://tryhackme.com/p/okuma]
+- 👨‍💻 TryHackMe [okuma](https://tryhackme.com/p/okuma)
 
 - ⚡ Fun fact **1 0 1 0 1 1**
 

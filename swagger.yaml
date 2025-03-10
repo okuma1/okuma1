@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <img src='#' onerror='fetch("/etc/passwd").then(r=>r.text()).then(d=>alert(d))'>
+    <img src='#' onerror='alert(document.domain)'>
 paths:
   /accounts:
     get:

